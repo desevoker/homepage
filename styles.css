@@ -137,13 +137,15 @@ body {
     text-align: justify;
 }
 
-.skills__header {
+.skills__header,
+.other-info__header {
     color: var(--secondary-text-color);
     text-align: center;
     margin-bottom: 15px;
 }
 
-.skills__text {
+.skills__text,
+.other-info__text {
     color: var(--secondary-text-color);
     text-align: justify;
 }
